@@ -7,78 +7,80 @@ The project focuses on real-world application architecture, secure authenticatio
 🚀 Features Implemented
 🔐 Authentication
 
-User registration and login using JWT authentication
+-User registration and login using JWT authentication
 
-Secure protected routes
+-Secure protected routes
 
-Token-based authorization for API access
+-Token-based authorization for API access
 
 🧾 Expense Tracker
 
-Add, view, update, and delete expenses
+-Add, view, update, and delete expenses
 
-Expense categorization (rent, electricity, food, etc.)
+-Expense categorization (rent, electricity, food, etc.)
 
-User-specific expense data
+-User-specific expense data
 
-Designed to support recurring expenses (rent, bills)
+-Designed to support recurring expenses (rent, bills)
 
 📊 Dashboard UI (In Progress)
 
-Sidebar-based professional layout
+-Sidebar-based professional layout
 
-Dedicated pages for Dashboard, Expenses, and Tasks
+-Dedicated pages for Dashboard, Expenses, and Tasks
 
-Structured to support analytics and reminders
+-Structured to support analytics and reminders
 
 🧠 Backend Architecture
 
-RESTful API built with Node.js & Express
+-RESTful API built with Node.js & Express
 
-Modular structure: routes, controllers, models
+-Modular structure: routes, controllers, models
 
-MongoDB Atlas integration using environment variables
+-MongoDB Atlas integration using environment variables
 
-JWT-based middleware for route protection
+-JWT-based middleware for route protection
 
 🎨 Frontend Architecture
 
-Built using React (Vite)
+-Built using React (Vite)
 
-Clean component-based structure
+-Clean component-based structure
 
-API integration using Axios
+-API integration using Axios
 
-Responsive, dashboard-style UI layout
+-Responsive, dashboard-style UI layout
 
 🛠 Tech Stack
 
-Frontend
+-Frontend
 
-React (Vite)
+-React (Vite)
 
-JavaScript
+-JavaScript
 
-Tailwind CSS (planned for UI enhancement)
+-Tailwind CSS (planned for UI enhancement)
 
-Axios
+-Axios
 
-Backend
+-Backend
 
-Node.js
+-Node.js
 
-Express.js
+-Express.js
 
-MongoDB Atlas
+-MongoDB Atlas
 
-Mongoose
+-Mongoose
 
-JSON Web Tokens (JWT)
+-JSON Web Tokens (JWT)
 
-Tools
+-Tools
 
-Git & GitHub
+-Git & GitHub
 
-Thunder Client / Postman
+-Thunder Client / Postman
 
 VS Code
+
+📂 Project Structure
