@@ -84,3 +84,53 @@ The project focuses on real-world application architecture, secure authenticatio
 VS Code
 
 📂 Project Structure
+nexatask/
+├── client/ # React frontend
+│ ├── src/
+│ │ ├── pages/
+│ │ ├── components/
+│ │ └── api/
+│
+├── server/ # Express backend
+│ ├── models/
+│ ├── controllers/
+│ ├── routes/
+│ └── middleware/
+│
+└── README.md
+
+
+---
+
+## 🎯 Project Goal
+
+The goal of NexaTask is to demonstrate:
+- Full-stack MERN development skills
+- Secure authentication workflows
+- Real-world CRUD operations
+- Dashboard-style UI design
+- Scalable backend architecture
+
+This project is being actively developed with plans to include **analytics dashboards, expense reminders, and data visualizations**.
+
+---
+
+## 📌 Status
+
+🚧 **Actively under development**
+
+---
+
+## 📬 Future Enhancements
+- Monthly expense analytics
+- Recurring bill reminders (rent, electricity)
+- Budget limits and alerts
+- Charts and data visualization
+- Deployment (frontend + backend)
+
+---
+
+## 📝 Resume Description (Optional)
+
+Developed a full-stack MERN productivity and expense management application featuring JWT authentication, RESTful APIs, expense tracking, and a dashboard-based UI using React, Node.js, Express, and MongoDB Atlas.
+
